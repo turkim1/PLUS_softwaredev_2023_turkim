@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T20:30:22.892Z,23.2433,-108.6306,10,6.4,mww,61,163,5.211,0.95,us,us7000k9f0,2023-06-20T18:28:27.040Z,"105 km ESE of La Rivera, Mexico",earthquake,9.25,1.883,0.033,88,reviewed,us,us
+2023-06-16T16:38:28.095Z,46.212,-0.7847,5,4.8,mww,65,70,3.897,1.04,us,us7000k90p,2023-06-22T07:53:23.501Z,"4 km SSE of Courçon, France",earthquake,7.13,1.858,0.051,37,reviewed,us,us
+2023-06-15T18:06:28.174Z,-22.976,-177.13,175.089,7.2,mww,149,21,2.535,0.9,us,us7000k8qh,2023-06-23T14:45:44.782Z,"south of the Fiji Islands",earthquake,6.38,3.26,0.054,33,reviewed,us,us
+2023-06-15T02:19:23.281Z,13.7495,120.7447,112,6.2,mww,129,24,9.025,0.56,us,us7000k8jz,2023-06-17T07:02:03.914Z,"11 km SSE of Hukay, Philippines",earthquake,7.87,1.845,0.034,84,reviewed,us,us
+2023-06-11T09:54:44.886Z,42.5268,141.9005,121,6.2,mww,143,31,1.064,0.53,us,us7000k7su,2023-06-24T12:30:10.102Z,"20 km WSW of Biratori, Japan",earthquake,5.62,1.905,0.032,94,reviewed,us,us
+2023-06-11T00:38:52.390Z,-26.3246,28.1419,10,4.9,mb,87,39,2.641,0.49,us,us7000k7q8,2023-06-24T04:28:43.722Z,"South Africa",earthquake,8.03,1.788,0.066,73,reviewed,us,us
+2023-06-03T01:49:15.167Z,-15.6705,-71.605,10,5.4,mww,72,96,2.945,0.89,us,us7000k5zj,2023-06-23T00:45:06.323Z,"southern Peru",earthquake,10.65,1.769,0.047,44,reviewed,us,us
+2023-05-31T11:20:14.013Z,25.1051,96.2315,10,5.9,mww,194,43,4.379,0.71,us,us7000k58h,2023-06-21T11:32:01.316Z,"121 km WSW of Myitkyina, Myanmar",earthquake,6.38,1.321,0.075,17,reviewed,us,us
+2023-05-31T02:21:23.103Z,-49.5713,163.8394,9.375,6.3,mww,138,52,3.907,0.84,us,us7000k54z,2023-06-13T23:30:07.688Z,"Auckland Islands, New Zealand region",earthquake,9.93,2.715,0.066,22,reviewed,us,us
+2023-05-28T13:41:51.811Z,-37.5433,144.8434,9.049,3.8,mb,11,129,0.515,0.46,us,us7000k4me,2023-06-08T15:34:04.062Z,"5 km W of Mickleham, Australia",earthquake,6.88,5.882,0.36,2,reviewed,us,us
+2023-05-26T10:03:23.980Z,35.5096,140.4905,42,6.1,mww,259,51,2.066,0.49,us,us7000k46f,2023-06-22T12:56:49.650Z,"12 km SSE of Narutō, Japan",earthquake,7.77,1.93,0.038,66,reviewed,us,us
